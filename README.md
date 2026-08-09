@@ -1,52 +1,33 @@
-# CNEWS
+# CNEWS weather site
 
-本專案整理新聞索引，並使用香港官方開放數據示範可追溯的資料流程。
+一個簡單的香港天氣頁面：顯示即時天氣、警告及未來預報，並每六小時自動更新。
 
-## 內容呈現原則
+資料來自香港天文台的官方開放數據 API。選用官方來源是因為出處清楚、可追溯；使用、複製或分發時須遵守 [DATA.GOV.HK 使用條款及條件](https://data.gov.hk/tc/terms-and-conditions)，並保留來源及知識產權聲明。
 
-CNEWS 每則新聞只展示以下欄位：
+## 主要檔案
 
-| 欄位 | 說明 |
-| --- | --- |
-| 標題 | 新聞原始標題 |
-| 連結 | 指向原網站的連結 |
-| 出處 | 原始發布網站或機構 |
-| 日期 | 發布或收錄日期 |
-| 分數 | 系統排序或相關性分數 |
+- `scripts/fetch-weather.mjs`：抓取香港天文台資料並原子地寫入 `data/weather.json`。
+- `index.html`：無框架的天氣頁面，讀取 JSON 後顯示資料。
+- `.github/workflows/update.yml`：每六小時抓取資料；有變化才 commit，然後部署 GitHub Pages。
 
-不會提供或生成任何新聞全文、摘要、節錄、開頭內容或「內容簡介」。讀者如要閱讀新聞內容，請透過連結前往原網站查看。
+## 本機使用
 
-## 數據來源
+先以 Node.js 22+ 更新資料：
 
-資料來自香港天文台經 [DATA.GOV.HK](https://data.gov.hk/) 提供的官方開放數據 API。選用官方來源是因為出處清楚、格式較穩定，亦較適合示範可追溯的資料流程。
+```sh
+node scripts/fetch-weather.mjs
+```
 
-### 使用條款及來源註明
+以本機 HTTP server 開啟頁面，例如：
 
-根據 [DATA.GOV.HK 使用條款及條件](https://data.gov.hk/tc/terms-and-conditions)，資料可免費作商業或非商業用途；使用、複製或分發資料時，必須遵守以下要求：
+```sh
+python -m http.server 8000
+```
 
-- 清楚註明資料來源，並確認香港特別行政區政府及相關機構為知識產權擁有人。
-- 遵守 DATA.GOV.HK 的使用條款及條件。
-- 妥善標明資料原屬政府、相關機構及 DATA.GOV.HK 所有。
+然後瀏覽 `http://localhost:8000/`。直接 double-click `index.html` 可能因瀏覽器安全限制而不能 `fetch` 本機 JSON；請改用任何簡單的本機 HTTP server。
 
-資料由政府及相關機構按「現況」提供，不保證其準確性、完整性、可靠性、適時性或適用性。政府亦可在毋須預先通知的情況下修改、編輯、暫停或停止提供資料；使用本專案前，請參閱最新的 [DATA.GOV.HK 使用條款及條件](https://data.gov.hk/tc/terms-and-conditions)。
+沒有網絡時，可暫時把 `data/weather.json` 以 `fixtures/weather-sample.json` 取代（或在 `index.html` 的 `fetch(...)` 暫改為該路徑）作示範；完成後還原。
 
-## 資料來源標示
+## 需要 GitHub 才能驗證的事
 
-> 資料來源：香港天文台，經香港特別行政區政府 DATA.GOV.HK 提供。
-
-## 天氣資料更新與狀態提示
-
-`scripts/fetch-weather.mjs` 會同時取得即時天氣及九日天氣預報，只有兩條 API 都成功時才會以原子方式更新 `data/weather.json`。任何一條 endpoint 失敗都會以紅色訊息列出失敗 URL 及原因、以 exit code `1` 結束，並保留原有 JSON 檔案不變。
-
-`data/weather.json` 會保存兩個不同用途的時間：
-
-| 欄位 | 代表意思 | 頁面警示規則 | 建議處理 |
-| --- | --- | --- | --- |
-| `fetchedAt` | 本專案最後一次成功取得資料的時間 | 超過 8 小時顯示「天氣資料已過期」 | 檢查自動化及抓取 script |
-| `current.hkoUpdateTime` | 香港天文台標示的來源發佈時間 | 超過 12 小時顯示「來源數據停咗」 | 向來源查詢或考慮更換資料源 |
-
-兩種警示可以同時出現；即使警示出現，最後成功讀取的溫度、濕度及預報仍會照常顯示。若頁面完全讀不到或無法解析 `data/weather.json`，則顯示紅色「未能攞到最新天氣資料」提示，而不會顯示空白頁。
-
-## 免責聲明
-
-本專案並非香港特別行政區政府、DATA.GOV.HK 或香港天文台的官方產品。資料僅供資訊及示範用途，不應視為官方天氣預報、警告或決策依據。
+排程、手動 Run workflow、bot push、Pages artifact 和公開部署都必須 push 到 GitHub 後才可驗證。本機只能驗證抓取 script 和頁面佈局。
