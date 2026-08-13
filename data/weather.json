@@ -1,12 +1,10 @@
 {
-  "fetchedAt": "2026-08-13T09:50:16.893Z",
+  "fetchedAt": "2026-08-13T15:37:30.719Z",
   "current": {
-    "temperature": 32,
-    "humidity": 69,
-    "warnings": [
-      "酷熱天氣警告現正生效，高溫天氣持續！請補充足夠水分。如感不適，立刻休息或求助，需要時儘快求醫。"
-    ],
-    "hkoUpdateTime": "2026-08-13T17:02:00+08:00"
+    "temperature": 31,
+    "humidity": 77,
+    "warnings": "",
+    "hkoUpdateTime": "2026-08-13T23:02:00+08:00"
   },
   "forecast": [
     {
