@@ -1,32 +1,25 @@
 {
-  "fetchedAt": "2026-08-12T20:25:15.307Z",
+  "fetchedAt": "2026-08-13T05:52:24.845Z",
   "current": {
-    "temperature": 30,
-    "humidity": 79,
+    "temperature": 33,
+    "humidity": 61,
     "warnings": [
       "酷熱天氣警告現正生效，高溫天氣持續！請補充足夠水分。如感不適，立刻休息或求助，需要時儘快求醫。"
     ],
-    "hkoUpdateTime": "2026-08-13T04:02:00+08:00"
+    "hkoUpdateTime": "2026-08-13T13:02:00+08:00"
   },
   "forecast": [
     {
-      "date": "20260813",
-      "weekday": "星期四",
-      "description": "部分時間有陽光，有一兩陣驟雨。日間酷熱。",
-      "maxTemperature": 34,
-      "minTemperature": 29
-    },
-    {
       "date": "20260814",
       "weekday": "星期五",
-      "description": "大致多雲，有幾陣驟雨及狂風雷暴。部分地區驟雨較多。",
+      "description": "大致多雲，間中有驟雨及狂風雷暴。初時雨勢有時頗大。",
       "maxTemperature": 32,
       "minTemperature": 27
     },
     {
       "date": "20260815",
       "weekday": "星期六",
-      "description": "大致多雲，有幾陣驟雨。初時局部地區有雷暴。日間短暫時間有陽光。",
+      "description": "大致多雲，有幾陣驟雨。初時部分地區驟雨較多及有雷暴。日間短暫時間有陽光。",
       "maxTemperature": 32,
       "minTemperature": 27
     },
@@ -35,14 +28,14 @@
       "weekday": "星期日",
       "description": "短暫時間有陽光，有一兩陣驟雨。日間酷熱。",
       "maxTemperature": 33,
-      "minTemperature": 27
+      "minTemperature": 28
     },
     {
       "date": "20260817",
       "weekday": "星期一",
-      "description": "短暫時間有陽光，有幾陣驟雨。",
-      "maxTemperature": 32,
-      "minTemperature": 27
+      "description": "短暫時間有陽光，有幾陣驟雨。日間酷熱。稍後部分地區驟雨較多及有雷暴。",
+      "maxTemperature": 33,
+      "minTemperature": 28
     },
     {
       "date": "20260818",
@@ -61,13 +54,20 @@
     {
       "date": "20260820",
       "weekday": "星期四",
-      "description": "大致多雲，有幾陣驟雨及狂風雷暴。部分地區驟雨較多。",
+      "description": "大致多雲，有幾陣驟雨及狂風雷暴。",
       "maxTemperature": 31,
       "minTemperature": 27
     },
     {
       "date": "20260821",
       "weekday": "星期五",
+      "description": "大致多雲，有幾陣驟雨及狂風雷暴。部分地區驟雨較多。",
+      "maxTemperature": 31,
+      "minTemperature": 27
+    },
+    {
+      "date": "20260822",
+      "weekday": "星期六",
       "description": "大致多雲，有幾陣驟雨及狂風雷暴。部分地區驟雨較多。",
       "maxTemperature": 31,
       "minTemperature": 27
