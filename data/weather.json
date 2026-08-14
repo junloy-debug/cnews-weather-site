@@ -1,12 +1,10 @@
 {
-  "fetchedAt": "2026-08-14T05:50:15.722Z",
+  "fetchedAt": "2026-08-14T09:44:50.225Z",
   "current": {
-    "temperature": 27,
-    "humidity": 89,
-    "warnings": [
-      "雷暴警告現正生效，有效時間至8月14日下午3時正。預料香港有幾陣雷暴。"
-    ],
-    "hkoUpdateTime": "2026-08-14T13:41:00+08:00"
+    "temperature": 29,
+    "humidity": 82,
+    "warnings": "",
+    "hkoUpdateTime": "2026-08-14T17:02:00+08:00"
   },
   "forecast": [
     {
@@ -19,7 +17,7 @@
     {
       "date": "20260816",
       "weekday": "星期日",
-      "description": "短暫時間有陽光，有一兩陣驟雨。日間酷熱。",
+      "description": "部分時間有陽光，有一兩陣驟雨。日間酷熱。",
       "maxTemperature": 33,
       "minTemperature": 28
     },
