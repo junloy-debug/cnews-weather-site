@@ -53,7 +53,11 @@ const weather = {
   current: {
     temperature: stationReading(currentWeather.temperature.data, 'temperature'),
     humidity: stationReading(currentWeather.humidity.data, 'humidity'),
-    warnings: currentWeather.warningMessage ?? [],
+    warnings: Array.isArray(currentWeather.warningMessage)
+      ? currentWeather.warningMessage
+      : currentWeather.warningMessage
+        ? [currentWeather.warningMessage]
+        : [],
     hkoUpdateTime: currentWeather.updateTime,
   },
   forecast: forecast.weatherForecast.map((day) => ({
