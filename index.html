@@ -153,7 +153,12 @@
         setValue('#temperature', weather.current.temperature, '°C');
         setValue('#humidity', weather.current.humidity, '%');
         document.querySelector('#updated').textContent = formatFetchedAt(weather.fetchedAt);
-        weather.current.warnings.forEach(addWarning);
+        const warnings = Array.isArray(weather.current.warnings)
+          ? weather.current.warnings
+          : weather.current.warnings
+            ? [weather.current.warnings]
+            : [];
+        warnings.forEach(addWarning);
         weather.forecast.forEach(addForecast);
         const age = Date.now() - new Date(weather.fetchedAt).getTime();
         if (!Number.isFinite(age)) throw new Error('fetchedAt 無效');
