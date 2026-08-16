@@ -1,16 +1,18 @@
 {
-  "fetchedAt": "2026-08-15T19:10:27.682Z",
+  "fetchedAt": "2026-08-16T03:29:26.171Z",
   "current": {
-    "temperature": 29,
-    "humidity": 87,
-    "warnings": [],
-    "hkoUpdateTime": "2026-08-16T03:02:00+08:00"
+    "temperature": 31,
+    "humidity": 70,
+    "warnings": [
+      "酷熱天氣警告現正生效，市民應慎防中暑，多補充水分。"
+    ],
+    "hkoUpdateTime": "2026-08-16T11:02:00+08:00"
   },
   "forecast": [
     {
       "date": "20260816",
       "weekday": "星期日",
-      "description": "短暫時間有陽光，有幾陣驟雨。初時局部地區有雷暴。日間酷熱。",
+      "description": "部分時間有陽光。日間酷熱，局部地區有驟雨及雷暴。",
       "maxTemperature": 33,
       "minTemperature": 28
     },
