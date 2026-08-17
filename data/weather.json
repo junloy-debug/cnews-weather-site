@@ -1,18 +1,19 @@
 {
-  "fetchedAt": "2026-08-16T19:09:49.074Z",
+  "fetchedAt": "2026-08-17T03:29:57.122Z",
   "current": {
-    "temperature": 29,
-    "humidity": 84,
+    "temperature": 32,
+    "humidity": 75,
     "warnings": [
+      "雷暴警告現正生效，有效時間至8月17日下午12時30分。預料新界北部有局部地區雷暴。",
       "酷熱天氣警告現正生效，市民應慎防中暑，多補充水分。"
     ],
-    "hkoUpdateTime": "2026-08-17T03:02:00+08:00"
+    "hkoUpdateTime": "2026-08-17T11:02:00+08:00"
   },
   "forecast": [
     {
       "date": "20260817",
       "weekday": "星期一",
-      "description": "漸轉多雲，有幾陣驟雨。日間部分時間有陽光及酷熱。稍後部分地區雨勢較大及有狂風雷暴。",
+      "description": "部分時間有陽光，有幾陣驟雨，局部地區有狂風雷暴。日間酷熱。稍後部分地區雨勢較大。",
       "maxTemperature": 33,
       "minTemperature": 28
     },
