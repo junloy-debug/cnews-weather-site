@@ -1,18 +1,16 @@
 {
-  "fetchedAt": "2026-08-17T08:25:52.062Z",
+  "fetchedAt": "2026-08-17T14:02:09.867Z",
   "current": {
     "temperature": 30,
-    "humidity": 79,
-    "warnings": [
-      "雷暴警告現正生效，有效時間至8月17日下午6時30分。預料香港東部水域有局部地區狂風雷暴。"
-    ],
-    "hkoUpdateTime": "2026-08-17T16:21:00+08:00"
+    "humidity": 81,
+    "warnings": [],
+    "hkoUpdateTime": "2026-08-17T21:02:00+08:00"
   },
   "forecast": [
     {
       "date": "20260818",
       "weekday": "星期二",
-      "description": "大致多雲，有幾陣驟雨及雷暴。初時部分地區驟雨較多。下午短暫時間有陽光。",
+      "description": "大致多雲，有幾陣驟雨及狂風雷暴。初時部分地區驟雨較多。下午短暫時間有陽光。",
       "maxTemperature": 32,
       "minTemperature": 27
     },
