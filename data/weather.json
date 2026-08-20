@@ -1,10 +1,12 @@
 {
-  "fetchedAt": "2026-08-20T14:20:38.921Z",
+  "fetchedAt": "2026-08-20T19:50:25.767Z",
   "current": {
-    "temperature": 27,
+    "temperature": 26,
     "humidity": 94,
-    "warnings": [],
-    "hkoUpdateTime": "2026-08-20T22:02:00+08:00"
+    "warnings": [
+      "雷暴警告現正生效，有效時間至8月21日上午4時30分。預料香港有局部地區狂風雷暴。"
+    ],
+    "hkoUpdateTime": "2026-08-21T03:02:00+08:00"
   },
   "forecast": [
     {
