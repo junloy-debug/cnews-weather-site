@@ -1,12 +1,10 @@
 {
-  "fetchedAt": "2026-08-22T13:46:54.138Z",
+  "fetchedAt": "2026-08-22T19:12:08.356Z",
   "current": {
-    "temperature": 30,
-    "humidity": 80,
-    "warnings": [
-      "雷暴警告現正生效，有效時間至8月22日下午10時30分。預料新界有局部地區雷暴。"
-    ],
-    "hkoUpdateTime": "2026-08-22T21:02:00+08:00"
+    "temperature": 29,
+    "humidity": 89,
+    "warnings": [],
+    "hkoUpdateTime": "2026-08-23T03:02:00+08:00"
   },
   "forecast": [
     {
