@@ -1,16 +1,18 @@
 {
-  "fetchedAt": "2026-08-22T07:49:44.698Z",
+  "fetchedAt": "2026-08-22T13:46:54.138Z",
   "current": {
-    "temperature": 31,
+    "temperature": 30,
     "humidity": 80,
-    "warnings": [],
-    "hkoUpdateTime": "2026-08-22T15:02:00+08:00"
+    "warnings": [
+      "雷暴警告現正生效，有效時間至8月22日下午10時30分。預料新界有局部地區雷暴。"
+    ],
+    "hkoUpdateTime": "2026-08-22T21:02:00+08:00"
   },
   "forecast": [
     {
       "date": "20260823",
       "weekday": "星期日",
-      "description": "大致多雲，有幾陣驟雨。日間部分時間天色明朗。稍後局部地區有雷暴。",
+      "description": "大致多雲，有幾陣驟雨。初時局部地區有雷暴。下午部分時間天色明朗。",
       "maxTemperature": 32,
       "minTemperature": 27
     },
