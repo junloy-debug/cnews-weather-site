@@ -1,10 +1,13 @@
 {
-  "fetchedAt": "2026-08-23T03:32:45.706Z",
+  "fetchedAt": "2026-08-23T07:52:00.778Z",
   "current": {
-    "temperature": 30,
-    "humidity": 76,
-    "warnings": [],
-    "hkoUpdateTime": "2026-08-23T11:02:00+08:00"
+    "temperature": 31,
+    "humidity": 73,
+    "warnings": [
+      "雷暴警告現正生效，有效時間至8月23日下午4時正。預料新界東部有局部地區雷暴。",
+      "酷熱天氣警告現正生效，市民應慎防中暑，多補充水分。"
+    ],
+    "hkoUpdateTime": "2026-08-23T15:22:00+08:00"
   },
   "forecast": [
     {
