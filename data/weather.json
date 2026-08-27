@@ -1,16 +1,16 @@
 {
-  "fetchedAt": "2026-08-27T09:52:59.947Z",
+  "fetchedAt": "2026-08-27T22:17:36.954Z",
   "current": {
     "temperature": 29,
-    "humidity": 84,
+    "humidity": 86,
     "warnings": [],
-    "hkoUpdateTime": "2026-08-27T17:02:00+08:00"
+    "hkoUpdateTime": "2026-08-28T06:02:00+08:00"
   },
   "forecast": [
     {
       "date": "20260828",
       "weekday": "星期五",
-      "description": "大致多雲，有幾陣驟雨及狂風雷暴，初時部分地區驟雨較多。日間短暫時間有陽光。",
+      "description": "大致多雲，有幾陣驟雨及狂風雷暴，初時部分地區驟雨較多。下午短暫時間有陽光。",
       "maxTemperature": 32,
       "minTemperature": 28
     },
