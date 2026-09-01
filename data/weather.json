@@ -1,18 +1,18 @@
 {
-  "fetchedAt": "2026-09-01T16:42:03.701Z",
+  "fetchedAt": "2026-09-01T21:04:11.703Z",
   "current": {
     "temperature": 26,
-    "humidity": 94,
+    "humidity": 89,
     "warnings": [
       "一號熱帶氣旋警告信號現正生效。"
     ],
-    "hkoUpdateTime": "2026-09-02T00:02:00+08:00"
+    "hkoUpdateTime": "2026-09-02T05:02:00+08:00"
   },
   "forecast": [
     {
       "date": "20260902",
       "weekday": "星期三",
-      "description": "大致多雲，間中有狂風驟雨，局部地區有雷暴。海有湧浪。",
+      "description": "大致多雲，有幾陣狂風驟雨。海有湧浪。",
       "maxTemperature": 30,
       "minTemperature": 26
     },
