@@ -1,12 +1,12 @@
 {
-  "fetchedAt": "2026-09-01T11:42:05.195Z",
+  "fetchedAt": "2026-09-01T16:42:03.701Z",
   "current": {
-    "temperature": 27,
-    "humidity": 93,
+    "temperature": 26,
+    "humidity": 94,
     "warnings": [
       "一號熱帶氣旋警告信號現正生效。"
     ],
-    "hkoUpdateTime": "2026-09-01T19:02:00+08:00"
+    "hkoUpdateTime": "2026-09-02T00:02:00+08:00"
   },
   "forecast": [
     {
