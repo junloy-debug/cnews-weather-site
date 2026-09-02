@@ -1,32 +1,25 @@
 {
-  "fetchedAt": "2026-09-01T21:04:11.703Z",
+  "fetchedAt": "2026-09-02T04:39:01.898Z",
   "current": {
-    "temperature": 26,
-    "humidity": 89,
+    "temperature": 28,
+    "humidity": 75,
     "warnings": [
       "一號熱帶氣旋警告信號現正生效。"
     ],
-    "hkoUpdateTime": "2026-09-02T05:02:00+08:00"
+    "hkoUpdateTime": "2026-09-02T12:02:00+08:00"
   },
   "forecast": [
     {
-      "date": "20260902",
-      "weekday": "星期三",
-      "description": "大致多雲，有幾陣狂風驟雨。海有湧浪。",
-      "maxTemperature": 30,
-      "minTemperature": 26
-    },
-    {
       "date": "20260903",
       "weekday": "星期四",
-      "description": "大致多雲，有幾陣驟雨。日間部分時間天色明朗。",
+      "description": "大致多雲，有幾陣驟雨。日間部分時間天色明朗。海有湧浪。",
       "maxTemperature": 30,
       "minTemperature": 25
     },
     {
       "date": "20260904",
       "weekday": "星期五",
-      "description": "大致多雲，有幾陣驟雨。",
+      "description": "大致多雲，有幾陣狂風驟雨。海有湧浪。",
       "maxTemperature": 29,
       "minTemperature": 25
     },
@@ -47,30 +40,37 @@
     {
       "date": "20260907",
       "weekday": "星期一",
-      "description": "部分時間有陽光。",
+      "description": "部分時間有陽光。早上有一兩陣驟雨。",
       "maxTemperature": 32,
       "minTemperature": 27
     },
     {
       "date": "20260908",
       "weekday": "星期二",
-      "description": "部分時間有陽光，局部地區有驟雨。",
+      "description": "部分時間有陽光。",
       "maxTemperature": 32,
       "minTemperature": 27
     },
     {
       "date": "20260909",
       "weekday": "星期三",
-      "description": "部分時間有陽光，有一兩陣驟雨。",
+      "description": "部分時間有陽光。",
       "maxTemperature": 31,
       "minTemperature": 27
     },
     {
       "date": "20260910",
       "weekday": "星期四",
-      "description": "部分時間有陽光，有一兩陣驟雨。",
-      "maxTemperature": 31,
-      "minTemperature": 27
+      "description": "短暫時間有陽光。",
+      "maxTemperature": 30,
+      "minTemperature": 26
+    },
+    {
+      "date": "20260911",
+      "weekday": "星期五",
+      "description": "大致多雲，日間短暫時間有陽光。",
+      "maxTemperature": 30,
+      "minTemperature": 26
     }
   ]
 }
