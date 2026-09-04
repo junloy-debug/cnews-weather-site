@@ -1,25 +1,18 @@
 {
-  "fetchedAt": "2026-09-03T21:04:25.707Z",
+  "fetchedAt": "2026-09-04T04:38:00.613Z",
   "current": {
-    "temperature": 27,
-    "humidity": 71,
+    "temperature": 29,
+    "humidity": 66,
     "warnings": [],
-    "hkoUpdateTime": "2026-09-04T05:02:00+08:00"
+    "hkoUpdateTime": "2026-09-04T12:02:00+08:00"
   },
   "forecast": [
     {
-      "date": "20260904",
-      "weekday": "星期五",
-      "description": "大致多雲。日間部分時間天色明朗。稍後有一兩陣驟雨。",
-      "maxTemperature": 30,
-      "minTemperature": 26
-    },
-    {
       "date": "20260905",
       "weekday": "星期六",
-      "description": "大致多雲，有一兩陣驟雨。日間短暫時間有陽光。",
+      "description": "大致多雲，日間部分時間有陽光，局部地區有驟雨。",
       "maxTemperature": 31,
-      "minTemperature": 26
+      "minTemperature": 27
     },
     {
       "date": "20260906",
@@ -31,7 +24,7 @@
     {
       "date": "20260907",
       "weekday": "星期一",
-      "description": "部分時間有陽光。早上有一兩陣驟雨。",
+      "description": "大致多雲，有一兩陣驟雨。日間短暫時間有陽光。",
       "maxTemperature": 32,
       "minTemperature": 27
     },
@@ -45,14 +38,14 @@
     {
       "date": "20260909",
       "weekday": "星期三",
-      "description": "大致天晴。",
-      "maxTemperature": 32,
+      "description": "部分時間有陽光，局部地區有驟雨。",
+      "maxTemperature": 31,
       "minTemperature": 27
     },
     {
       "date": "20260910",
       "weekday": "星期四",
-      "description": "部分時間有陽光。",
+      "description": "部分時間有陽光，局部地區有驟雨。",
       "maxTemperature": 31,
       "minTemperature": 26
     },
@@ -60,15 +53,22 @@
       "date": "20260911",
       "weekday": "星期五",
       "description": "部分時間有陽光。",
-      "maxTemperature": 30,
-      "minTemperature": 25
+      "maxTemperature": 31,
+      "minTemperature": 26
     },
     {
       "date": "20260912",
       "weekday": "星期六",
-      "description": "短暫時間有陽光，有一兩陣驟雨。",
+      "description": "大致多雲，有幾陣驟雨。日間短暫時間有陽光。",
       "maxTemperature": 30,
-      "minTemperature": 25
+      "minTemperature": 26
+    },
+    {
+      "date": "20260913",
+      "weekday": "星期日",
+      "description": "大致多雲，有幾陣驟雨。日間短暫時間有陽光。",
+      "maxTemperature": 30,
+      "minTemperature": 26
     }
   ]
 }
