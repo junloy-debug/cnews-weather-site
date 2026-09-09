@@ -1,10 +1,10 @@
 {
-  "fetchedAt": "2026-09-09T11:27:24.946Z",
+  "fetchedAt": "2026-09-09T16:40:55.966Z",
   "current": {
-    "temperature": 29,
-    "humidity": 70,
+    "temperature": 28,
+    "humidity": 71,
     "warnings": [],
-    "hkoUpdateTime": "2026-09-09T19:02:00+08:00"
+    "hkoUpdateTime": "2026-09-10T00:02:00+08:00"
   },
   "forecast": [
     {
