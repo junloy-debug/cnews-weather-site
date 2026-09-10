@@ -1,16 +1,16 @@
 {
-  "fetchedAt": "2026-09-10T04:46:39.492Z",
+  "fetchedAt": "2026-09-10T11:23:51.541Z",
   "current": {
-    "temperature": 31,
-    "humidity": 52,
+    "temperature": 29,
+    "humidity": 69,
     "warnings": [],
-    "hkoUpdateTime": "2026-09-10T12:02:00+08:00"
+    "hkoUpdateTime": "2026-09-10T19:02:00+08:00"
   },
   "forecast": [
     {
       "date": "20260911",
       "weekday": "星期五",
-      "description": "大致天晴。日間乾燥。早晚部分時間多雲。",
+      "description": "早晚部分時間多雲，有幾陣驟雨。日間大致天晴及乾燥。",
       "maxTemperature": 31,
       "minTemperature": 26
     },
