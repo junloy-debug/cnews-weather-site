@@ -1,16 +1,16 @@
 {
-  "fetchedAt": "2026-09-12T04:39:15.611Z",
+  "fetchedAt": "2026-09-12T10:50:44.613Z",
   "current": {
-    "temperature": 31,
-    "humidity": 59,
+    "temperature": 29,
+    "humidity": 79,
     "warnings": [],
-    "hkoUpdateTime": "2026-09-12T12:02:00+08:00"
+    "hkoUpdateTime": "2026-09-12T18:02:00+08:00"
   },
   "forecast": [
     {
       "date": "20260913",
       "weekday": "星期日",
-      "description": "大致多雲，有幾陣驟雨，初時部分地區雨勢較大及有狂風雷暴。海有湧浪。",
+      "description": "大致多雲，有幾陣驟雨，初時部分地區雨勢較大及有雷暴。海有湧浪。",
       "maxTemperature": 29,
       "minTemperature": 25
     },
