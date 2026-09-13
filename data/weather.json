@@ -1,33 +1,26 @@
 {
-  "fetchedAt": "2026-09-12T20:35:36.969Z",
+  "fetchedAt": "2026-09-13T04:52:05.887Z",
   "current": {
-    "temperature": 28,
-    "humidity": 77,
+    "temperature": 30,
+    "humidity": 69,
     "warnings": [
       "強烈季候風信號現正生效。"
     ],
-    "hkoUpdateTime": "2026-09-13T04:02:00+08:00"
+    "hkoUpdateTime": "2026-09-13T12:02:00+08:00"
   },
   "forecast": [
     {
-      "date": "20260913",
-      "weekday": "星期日",
-      "description": "大致多雲，有幾陣驟雨，初時部分地區雨勢較大及有雷暴。海有大浪及湧浪。",
-      "maxTemperature": 29,
-      "minTemperature": 26
-    },
-    {
       "date": "20260914",
       "weekday": "星期一",
-      "description": "短暫時間有陽光。早晚有幾陣驟雨，局部地區有雷暴。",
+      "description": "短暫時間有陽光。早晚有幾陣驟雨。",
       "maxTemperature": 31,
-      "minTemperature": 26
+      "minTemperature": 27
     },
     {
       "date": "20260915",
       "weekday": "星期二",
-      "description": "部分時間有陽光。早晚有幾陣驟雨。",
-      "maxTemperature": 31,
+      "description": "部分時間有陽光。日間炎熱。早晚有一兩陣驟雨。",
+      "maxTemperature": 32,
       "minTemperature": 27
     },
     {
@@ -40,28 +33,28 @@
     {
       "date": "20260917",
       "weekday": "星期四",
-      "description": "部分時間有陽光，稍後有一兩陣驟雨。",
+      "description": "大致天晴。",
       "maxTemperature": 31,
       "minTemperature": 27
     },
     {
       "date": "20260918",
       "weekday": "星期五",
-      "description": "部分時間有陽光。",
+      "description": "部分時間有陽光。稍後局部地區有驟雨。",
       "maxTemperature": 31,
       "minTemperature": 27
     },
     {
       "date": "20260919",
       "weekday": "星期六",
-      "description": "部分時間有陽光，早晚局部地區有驟雨。",
+      "description": "部分時間有陽光。稍後局部地區有驟雨。",
       "maxTemperature": 31,
       "minTemperature": 27
     },
     {
       "date": "20260920",
       "weekday": "星期日",
-      "description": "部分時間有陽光，局部地區有驟雨。",
+      "description": "部分時間有陽光。稍後局部地區有驟雨。",
       "maxTemperature": 31,
       "minTemperature": 27
     },
@@ -69,6 +62,13 @@
       "date": "20260921",
       "weekday": "星期一",
       "description": "部分時間有陽光，局部地區有驟雨。日間炎熱。",
+      "maxTemperature": 32,
+      "minTemperature": 27
+    },
+    {
+      "date": "20260922",
+      "weekday": "星期二",
+      "description": "部分時間有陽光，有一兩陣驟雨。日間炎熱。",
       "maxTemperature": 32,
       "minTemperature": 27
     }
