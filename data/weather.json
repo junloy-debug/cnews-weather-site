@@ -1,21 +1,12 @@
 {
-  "fetchedAt": "2026-09-14T21:51:26.126Z",
+  "fetchedAt": "2026-09-15T04:57:45.979Z",
   "current": {
-    "temperature": 27,
-    "humidity": 86,
-    "warnings": [
-      "雷暴警告現正生效，有效時間至9月15日上午7時30分。預料香港有局部地區雷暴。"
-    ],
-    "hkoUpdateTime": "2026-09-15T05:49:00+08:00"
+    "temperature": 29,
+    "humidity": 74,
+    "warnings": [],
+    "hkoUpdateTime": "2026-09-15T12:02:00+08:00"
   },
   "forecast": [
-    {
-      "date": "20260915",
-      "weekday": "星期二",
-      "description": "大致多雲，有幾陣驟雨。早上部分地區驟雨較多及有雷暴。日間部分時間有陽光及炎熱。",
-      "maxTemperature": 32,
-      "minTemperature": 26
-    },
     {
       "date": "20260916",
       "weekday": "星期三",
@@ -26,21 +17,21 @@
     {
       "date": "20260917",
       "weekday": "星期四",
-      "description": "天晴。",
+      "description": "天晴。日間乾燥。",
       "maxTemperature": 31,
       "minTemperature": 27
     },
     {
       "date": "20260918",
       "weekday": "星期五",
-      "description": "大致天晴。",
+      "description": "天晴。日間乾燥。",
       "maxTemperature": 31,
-      "minTemperature": 27
+      "minTemperature": 26
     },
     {
       "date": "20260919",
       "weekday": "星期六",
-      "description": "部分時間有陽光。日間炎熱。",
+      "description": "大致天晴。日間炎熱。",
       "maxTemperature": 32,
       "minTemperature": 27
     },
@@ -54,21 +45,28 @@
     {
       "date": "20260921",
       "weekday": "星期一",
-      "description": "部分時間有陽光，局部地區有驟雨。日間炎熱。",
+      "description": "部分時間有陽光，有一兩陣驟雨。日間炎熱。",
       "maxTemperature": 32,
       "minTemperature": 27
     },
     {
       "date": "20260922",
       "weekday": "星期二",
-      "description": "部分時間有陽光，局部地區有驟雨。日間炎熱。",
+      "description": "部分時間有陽光，有一兩陣驟雨。日間炎熱。",
       "maxTemperature": 32,
       "minTemperature": 27
     },
     {
       "date": "20260923",
       "weekday": "星期三",
-      "description": "部分時間有陽光，有一兩陣驟雨。日間炎熱。",
+      "description": "部分時間有陽光，局部地區有驟雨。日間炎熱。",
+      "maxTemperature": 32,
+      "minTemperature": 27
+    },
+    {
+      "date": "20260924",
+      "weekday": "星期四",
+      "description": "部分時間有陽光。日間炎熱。",
       "maxTemperature": 32,
       "minTemperature": 27
     }
