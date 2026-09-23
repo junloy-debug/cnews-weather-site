@@ -1,18 +1,18 @@
 {
-  "fetchedAt": "2026-09-23T17:05:16.100Z",
+  "fetchedAt": "2026-09-23T21:32:03.157Z",
   "current": {
-    "temperature": 28,
+    "temperature": 27,
     "humidity": 76,
     "warnings": [],
-    "hkoUpdateTime": "2026-09-24T01:02:00+08:00"
+    "hkoUpdateTime": "2026-09-24T05:02:00+08:00"
   },
   "forecast": [
     {
       "date": "20260924",
       "weekday": "星期四",
-      "description": "大致天晴。早晚部分時間多雲。",
+      "description": "大致天晴。",
       "maxTemperature": 32,
-      "minTemperature": 28
+      "minTemperature": 27
     },
     {
       "date": "20260925",
