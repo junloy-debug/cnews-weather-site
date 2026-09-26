@@ -1,26 +1,20 @@
 {
-  "fetchedAt": "2026-09-25T21:37:14.680Z",
+  "fetchedAt": "2026-09-26T05:03:06.900Z",
   "current": {
-    "temperature": 27,
-    "humidity": 81,
+    "temperature": 31,
+    "humidity": 61,
     "warnings": [
-      "火災危險警告為黃色，表示火災危險性頗高。"
+      "火災危險警告為黃色，表示火災危險性頗高。",
+      "酷熱天氣警告現正生效，市民應慎防中暑，多補充水分。"
     ],
-    "hkoUpdateTime": "2026-09-26T05:02:00+08:00"
+    "hkoUpdateTime": "2026-09-26T12:02:00+08:00"
   },
   "forecast": [
-    {
-      "date": "20260926",
-      "weekday": "星期六",
-      "description": "大致天晴。日間酷熱及乾燥。早晚部分時間多雲。",
-      "maxTemperature": 33,
-      "minTemperature": 27
-    },
     {
       "date": "20260927",
       "weekday": "星期日",
       "description": "大致天晴。日間酷熱及乾燥。",
-      "maxTemperature": 34,
+      "maxTemperature": 33,
       "minTemperature": 28
     },
     {
@@ -47,30 +41,37 @@
     {
       "date": "20261001",
       "weekday": "星期四",
-      "description": "大致多雲，有幾陣驟雨。日間短暫時間有陽光。",
+      "description": "大致多雲。日間部分時間有陽光。稍後有幾陣驟雨。",
       "maxTemperature": 32,
       "minTemperature": 28
     },
     {
       "date": "20261002",
       "weekday": "星期五",
-      "description": "大致多雲，有幾陣驟雨。",
-      "maxTemperature": 31,
+      "description": "大致多雲，有幾陣驟雨。日間短暫時間有陽光。",
+      "maxTemperature": 32,
       "minTemperature": 27
     },
     {
       "date": "20261003",
       "weekday": "星期六",
-      "description": "大致多雲，有幾陣驟雨。日間部分時間天色明朗。",
+      "description": "大致多雲，有幾陣驟雨。日間短暫時間有陽光。",
       "maxTemperature": 31,
       "minTemperature": 27
     },
     {
       "date": "20261004",
       "weekday": "星期日",
-      "description": "短暫時間有陽光，有幾陣驟雨。",
+      "description": "大致多雲，有幾陣驟雨。日間部分時間天色明朗。",
       "maxTemperature": 31,
       "minTemperature": 27
+    },
+    {
+      "date": "20261005",
+      "weekday": "星期一",
+      "description": "大致多雲，有幾陣驟雨。日間部分時間天色明朗。",
+      "maxTemperature": 31,
+      "minTemperature": 26
     }
   ]
 }
