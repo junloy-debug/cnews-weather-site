@@ -1,19 +1,19 @@
 {
-  "fetchedAt": "2026-09-30T05:36:26.556Z",
+  "fetchedAt": "2026-09-30T12:38:54.717Z",
   "current": {
-    "temperature": 33,
-    "humidity": 63,
+    "temperature": 30,
+    "humidity": 77,
     "warnings": [
       "酷熱天氣警告現正生效，高溫天氣持續！請補充足夠水分。如感不適，立刻休息或求助，需要時儘快求醫。"
     ],
-    "hkoUpdateTime": "2026-09-30T13:02:00+08:00"
+    "hkoUpdateTime": "2026-09-30T20:02:00+08:00"
   },
   "forecast": [
     {
       "date": "20261001",
       "weekday": "星期四",
-      "description": "部分時間有陽光。日間酷熱。稍後有幾陣驟雨，局部地區可能有雷暴。",
-      "maxTemperature": 33,
+      "description": "大致天晴。日間部分地區極端酷熱。稍後漸轉多雲，有幾陣驟雨，局部地區可能有雷暴。",
+      "maxTemperature": 34,
       "minTemperature": 29
     },
     {
@@ -26,7 +26,7 @@
     {
       "date": "20261003",
       "weekday": "星期六",
-      "description": "大致多雲，有幾陣驟雨。",
+      "description": "大致多雲，有幾陣驟雨，初時部分地區驟雨較多。",
       "maxTemperature": 31,
       "minTemperature": 27
     },
