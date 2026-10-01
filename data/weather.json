@@ -1,13 +1,10 @@
 {
-  "fetchedAt": "2026-10-01T05:59:57.385Z",
+  "fetchedAt": "2026-10-01T13:21:44.822Z",
   "current": {
-    "temperature": 33,
-    "humidity": 63,
-    "warnings": [
-      "火災危險警告為黃色，表示火災危險性頗高。",
-      "酷熱天氣警告現正生效，高溫天氣持續！請補充足夠水分。如感不適，立刻休息或求助，需要時儘快求醫。"
-    ],
-    "hkoUpdateTime": "2026-10-01T13:02:00+08:00"
+    "temperature": 30,
+    "humidity": 75,
+    "warnings": [],
+    "hkoUpdateTime": "2026-10-01T21:02:00+08:00"
   },
   "forecast": [
     {
