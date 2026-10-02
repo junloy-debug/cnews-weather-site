@@ -1,25 +1,25 @@
 {
-  "fetchedAt": "2026-10-02T05:42:23.805Z",
+  "fetchedAt": "2026-10-02T12:40:29.849Z",
   "current": {
-    "temperature": 29,
-    "humidity": 85,
+    "temperature": 28,
+    "humidity": 86,
     "warnings": [
-      "雷暴警告現正生效，有效時間至10月2日下午2時30分。預料新界東部有局部地區雷暴。"
+      "雷暴警告現正生效，有效時間至10月2日下午9時正。預料香港有局部地區雷暴。"
     ],
-    "hkoUpdateTime": "2026-10-02T13:16:00+08:00"
+    "hkoUpdateTime": "2026-10-02T20:36:00+08:00"
   },
   "forecast": [
     {
       "date": "20261003",
       "weekday": "星期六",
-      "description": "大致多雲，有幾陣驟雨。初時部分地區驟雨較多及有雷暴。",
+      "description": "大致多雲，間中有驟雨，早上部分地區雨勢頗大及有幾陣雷暴。",
       "maxTemperature": 31,
       "minTemperature": 27
     },
     {
       "date": "20261004",
       "weekday": "星期日",
-      "description": "大致多雲，有幾陣驟雨。日間短暫時間有陽光。",
+      "description": "大致多雲，有幾陣驟雨。日間短暫時間有陽光。晚上有幾陣雷暴。",
       "maxTemperature": 31,
       "minTemperature": 27
     },
