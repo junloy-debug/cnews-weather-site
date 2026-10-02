@@ -1,25 +1,18 @@
 {
-  "fetchedAt": "2026-10-01T22:43:19.211Z",
+  "fetchedAt": "2026-10-02T05:42:23.805Z",
   "current": {
     "temperature": 29,
-    "humidity": 81,
+    "humidity": 85,
     "warnings": [
-      "天文台在上午6時10分發出雷暴警告，有效時間至10月2日上午8時30分。預料新界有局部地區雷暴。"
+      "雷暴警告現正生效，有效時間至10月2日下午2時30分。預料新界東部有局部地區雷暴。"
     ],
-    "hkoUpdateTime": "2026-10-02T06:11:00+08:00"
+    "hkoUpdateTime": "2026-10-02T13:16:00+08:00"
   },
   "forecast": [
     {
-      "date": "20261002",
-      "weekday": "星期五",
-      "description": "大致多雲，有幾陣驟雨及雷暴，部分地區雨勢較大。日間部分時間天色明朗。",
-      "maxTemperature": 31,
-      "minTemperature": 27
-    },
-    {
       "date": "20261003",
       "weekday": "星期六",
-      "description": "大致多雲，有幾陣驟雨，初時部分地區驟雨較多。",
+      "description": "大致多雲，有幾陣驟雨。初時部分地區驟雨較多及有雷暴。",
       "maxTemperature": 31,
       "minTemperature": 27
     },
@@ -33,42 +26,49 @@
     {
       "date": "20261005",
       "weekday": "星期一",
-      "description": "大致多雲，初時有幾陣雨。日間部分時間天色明朗。",
+      "description": "大致多雲。初時有幾陣驟雨，日間部分時間天色明朗。",
       "maxTemperature": 31,
       "minTemperature": 25
     },
     {
       "date": "20261006",
       "weekday": "星期二",
-      "description": "大致多雲。日間短暫時間有陽光。",
+      "description": "大致多雲。日間短暫時間有陽光及乾燥。",
       "maxTemperature": 29,
       "minTemperature": 24
     },
     {
       "date": "20261007",
       "weekday": "星期三",
-      "description": "大致天晴及乾燥。",
+      "description": "天晴乾燥。",
       "maxTemperature": 30,
       "minTemperature": 24
     },
     {
       "date": "20261008",
       "weekday": "星期四",
-      "description": "天晴。日間乾燥。",
+      "description": "大致天晴。日間乾燥。",
       "maxTemperature": 30,
       "minTemperature": 25
     },
     {
       "date": "20261009",
       "weekday": "星期五",
-      "description": "天晴。日間乾燥。",
+      "description": "大致天晴。日間乾燥。",
       "maxTemperature": 31,
-      "minTemperature": 25
+      "minTemperature": 26
     },
     {
       "date": "20261010",
       "weekday": "星期六",
-      "description": "天晴。日間乾燥。",
+      "description": "大致天晴。日間乾燥。",
+      "maxTemperature": 31,
+      "minTemperature": 26
+    },
+    {
+      "date": "20261011",
+      "weekday": "星期日",
+      "description": "大致天晴。日間乾燥。",
       "maxTemperature": 31,
       "minTemperature": 26
     }
