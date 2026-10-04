@@ -1,19 +1,16 @@
 {
-  "fetchedAt": "2026-10-04T12:25:32.091Z",
+  "fetchedAt": "2026-10-04T21:30:51.014Z",
   "current": {
-    "temperature": 29,
+    "temperature": 26,
     "humidity": 81,
-    "warnings": [
-      "天文台在下午8時20分發出黃色暴雨警告信號。",
-      "雷暴警告現正生效，有效時間至10月4日下午10時正。預料香港有幾陣狂風雷暴。"
-    ],
-    "hkoUpdateTime": "2026-10-04T20:21:00+08:00"
+    "warnings": [],
+    "hkoUpdateTime": "2026-10-05T05:02:00+08:00"
   },
   "forecast": [
     {
       "date": "20261005",
       "weekday": "星期一",
-      "description": "大致多雲，間中有驟雨。日間驟雨減少，短暫時間有陽光。",
+      "description": "大致多雲，初時有一兩陣驟雨。日間短暫時間有陽光。",
       "maxTemperature": 31,
       "minTemperature": 25
     },
