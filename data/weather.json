@@ -1,21 +1,14 @@
 {
-  "fetchedAt": "2026-10-09T22:41:05.188Z",
+  "fetchedAt": "2026-10-10T05:56:29.516Z",
   "current": {
-    "temperature": 26,
-    "humidity": 78,
+    "temperature": 31,
+    "humidity": 56,
     "warnings": [
-      "天文台在上午6時正發出黃色火災危險警告，表示火災危險性頗高。"
+      "火災危險警告為黃色，表示火災危險性頗高。"
     ],
-    "hkoUpdateTime": "2026-10-10T06:02:00+08:00"
+    "hkoUpdateTime": "2026-10-10T13:02:00+08:00"
   },
   "forecast": [
-    {
-      "date": "20261010",
-      "weekday": "星期六",
-      "description": "大致天晴，日間乾燥。",
-      "maxTemperature": 31,
-      "minTemperature": 26
-    },
     {
       "date": "20261011",
       "weekday": "星期日",
@@ -40,8 +33,8 @@
     {
       "date": "20261014",
       "weekday": "星期三",
-      "description": "大致天晴，日間乾燥及炎熱。",
-      "maxTemperature": 32,
+      "description": "大致天晴。日間乾燥。稍後部分時間多雲。",
+      "maxTemperature": 31,
       "minTemperature": 26
     },
     {
@@ -68,6 +61,13 @@
     {
       "date": "20261018",
       "weekday": "星期日",
+      "description": "大致天晴。",
+      "maxTemperature": 31,
+      "minTemperature": 27
+    },
+    {
+      "date": "20261019",
+      "weekday": "星期一",
       "description": "大致天晴。",
       "maxTemperature": 31,
       "minTemperature": 27
