@@ -1,23 +1,16 @@
 {
-  "fetchedAt": "2026-10-14T21:43:29.088Z",
+  "fetchedAt": "2026-10-15T04:44:22.124Z",
   "current": {
-    "temperature": 27,
-    "humidity": 74,
+    "temperature": 29,
+    "humidity": 70,
     "warnings": [],
-    "hkoUpdateTime": "2026-10-15T05:02:00+08:00"
+    "hkoUpdateTime": "2026-10-15T12:02:00+08:00"
   },
   "forecast": [
     {
-      "date": "20261015",
-      "weekday": "星期四",
-      "description": "部分時間有陽光。早上有一兩陣微雨。",
-      "maxTemperature": 31,
-      "minTemperature": 27
-    },
-    {
       "date": "20261016",
       "weekday": "星期五",
-      "description": "短暫時間有陽光。晚上有一兩陣微雨。",
+      "description": "部分時間有陽光。晚上有一兩陣微雨。",
       "maxTemperature": 31,
       "minTemperature": 27
     },
@@ -25,13 +18,13 @@
       "date": "20261017",
       "weekday": "星期六",
       "description": "大致多雲，有一兩陣雨。日間部分時間天色明朗。",
-      "maxTemperature": 31,
+      "maxTemperature": 30,
       "minTemperature": 27
     },
     {
       "date": "20261018",
       "weekday": "星期日",
-      "description": "早上大致多雲。日間部分時間有陽光及乾燥。",
+      "description": "早上大致多雲，有一兩陣微雨。日間部分時間有陽光及乾燥。",
       "maxTemperature": 31,
       "minTemperature": 27
     },
@@ -45,14 +38,14 @@
     {
       "date": "20261020",
       "weekday": "星期二",
-      "description": "天晴。日間炎熱。",
+      "description": "天晴。日間乾燥及炎熱。",
       "maxTemperature": 32,
       "minTemperature": 27
     },
     {
       "date": "20261021",
       "weekday": "星期三",
-      "description": "部分時間有陽光。",
+      "description": "大致天晴。日間乾燥及炎熱。",
       "maxTemperature": 32,
       "minTemperature": 27
     },
@@ -60,15 +53,22 @@
       "date": "20261022",
       "weekday": "星期四",
       "description": "短暫時間有陽光，有一兩陣微雨。",
-      "maxTemperature": 30,
+      "maxTemperature": 31,
       "minTemperature": 26
     },
     {
       "date": "20261023",
       "weekday": "星期五",
-      "description": "短暫時間有陽光。",
-      "maxTemperature": 30,
+      "description": "部分時間有陽光。日間乾燥。",
+      "maxTemperature": 31,
       "minTemperature": 25
+    },
+    {
+      "date": "20261024",
+      "weekday": "星期六",
+      "description": "部分時間有陽光。日間乾燥。",
+      "maxTemperature": 31,
+      "minTemperature": 26
     }
   ]
 }
