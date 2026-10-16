@@ -1,23 +1,16 @@
 {
-  "fetchedAt": "2026-10-15T21:26:05.626Z",
+  "fetchedAt": "2026-10-16T04:35:57.158Z",
   "current": {
-    "temperature": 26,
-    "humidity": 73,
+    "temperature": 29,
+    "humidity": 68,
     "warnings": [],
-    "hkoUpdateTime": "2026-10-16T05:02:00+08:00"
+    "hkoUpdateTime": "2026-10-16T12:02:00+08:00"
   },
   "forecast": [
     {
-      "date": "20261016",
-      "weekday": "星期五",
-      "description": "初時天色大致良好。日間部分時間有陽光，晚上有一兩陣微雨。",
-      "maxTemperature": 30,
-      "minTemperature": 26
-    },
-    {
       "date": "20261017",
       "weekday": "星期六",
-      "description": "大致多雲，有一兩陣雨。日間部分時間天色明朗。",
+      "description": "大致多雲，早晚有一兩陣雨。日間短暫時間有陽光。",
       "maxTemperature": 30,
       "minTemperature": 27
     },
@@ -31,7 +24,7 @@
     {
       "date": "20261019",
       "weekday": "星期一",
-      "description": "天晴。日間乾燥及炎熱。",
+      "description": "天晴，初時部分地區能見度較低。日間乾燥及炎熱。",
       "maxTemperature": 32,
       "minTemperature": 26
     },
@@ -45,27 +38,34 @@
     {
       "date": "20261021",
       "weekday": "星期三",
-      "description": "大致天晴。初時部分地區能見度較低，日間乾燥及炎熱。",
+      "description": "大致天晴，初時部分地區能見度較低。日間乾燥及炎熱。",
       "maxTemperature": 32,
       "minTemperature": 27
     },
     {
       "date": "20261022",
       "weekday": "星期四",
-      "description": "短暫時間有陽光，有一兩陣微雨。",
-      "maxTemperature": 31,
+      "description": "初時有一兩陣雨。日間短暫時間有陽光。",
+      "maxTemperature": 30,
       "minTemperature": 26
     },
     {
       "date": "20261023",
       "weekday": "星期五",
-      "description": "部分時間有陽光。日間乾燥。",
+      "description": "部分時間有陽光。",
       "maxTemperature": 31,
-      "minTemperature": 25
+      "minTemperature": 26
     },
     {
       "date": "20261024",
       "weekday": "星期六",
+      "description": "部分時間有陽光。日間乾燥。",
+      "maxTemperature": 31,
+      "minTemperature": 26
+    },
+    {
+      "date": "20261025",
+      "weekday": "星期日",
       "description": "部分時間有陽光。日間乾燥。",
       "maxTemperature": 31,
       "minTemperature": 26
