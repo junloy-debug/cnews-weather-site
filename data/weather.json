@@ -1,12 +1,12 @@
 {
-  "fetchedAt": "2026-10-18T04:38:27.874Z",
+  "fetchedAt": "2026-10-18T11:11:44.354Z",
   "current": {
-    "temperature": 30,
-    "humidity": 66,
+    "temperature": 29,
+    "humidity": 69,
     "warnings": [
       "火災危險警告為黃色，表示火災危險性頗高。"
     ],
-    "hkoUpdateTime": "2026-10-18T12:02:00+08:00"
+    "hkoUpdateTime": "2026-10-18T19:02:00+08:00"
   },
   "forecast": [
     {
@@ -14,7 +14,7 @@
       "weekday": "星期一",
       "description": "大致天晴。日間乾燥及炎熱。",
       "maxTemperature": 32,
-      "minTemperature": 26
+      "minTemperature": 27
     },
     {
       "date": "20261020",
