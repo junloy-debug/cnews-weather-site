@@ -1,19 +1,14 @@
 {
-  "fetchedAt": "2026-10-18T20:47:33.025Z",
+  "fetchedAt": "2026-10-19T04:45:22.559Z",
   "current": {
-    "temperature": 27,
-    "humidity": 79,
-    "warnings": [],
-    "hkoUpdateTime": "2026-10-19T04:02:00+08:00"
+    "temperature": 31,
+    "humidity": 67,
+    "warnings": [
+      "火災危險警告為黃色，表示火災危險性頗高。"
+    ],
+    "hkoUpdateTime": "2026-10-19T12:02:00+08:00"
   },
   "forecast": [
-    {
-      "date": "20261019",
-      "weekday": "星期一",
-      "description": "天晴。日間乾燥及炎熱。",
-      "maxTemperature": 32,
-      "minTemperature": 27
-    },
     {
       "date": "20261020",
       "weekday": "星期二",
@@ -24,15 +19,15 @@
     {
       "date": "20261021",
       "weekday": "星期三",
-      "description": "大致天晴，初時部分地區能見度較低。日間乾燥及酷熱。晚上有一兩陣微雨。",
+      "description": "大致天晴，初時部分地區能見度較低。日間乾燥及酷熱。稍後局部地區有驟雨。",
       "maxTemperature": 33,
       "minTemperature": 26
     },
     {
       "date": "20261022",
       "weekday": "星期四",
-      "description": "大致多雲。初時有一兩陣雨。日間部分時間有陽光及乾燥。",
-      "maxTemperature": 31,
+      "description": "初時部分時間多雲，有一兩陣雨。日間大致天晴，天氣乾燥及炎熱。",
+      "maxTemperature": 32,
       "minTemperature": 25
     },
     {
@@ -45,28 +40,35 @@
     {
       "date": "20261024",
       "weekday": "星期六",
-      "description": "大致天晴及乾燥。日間酷熱。晚上有一兩陣驟雨。",
-      "maxTemperature": 33,
+      "description": "大致天晴及乾燥。日間炎熱。",
+      "maxTemperature": 32,
       "minTemperature": 26
     },
     {
       "date": "20261025",
       "weekday": "星期日",
-      "description": "大致多雲，有幾陣驟雨。日間短暫時間有陽光。",
+      "description": "部分時間有陽光。日間乾燥。稍後有幾陣驟雨。",
       "maxTemperature": 31,
       "minTemperature": 26
     },
     {
       "date": "20261026",
       "weekday": "星期一",
-      "description": "大致多雲，有一兩陣驟雨。日間短暫時間有陽光。",
+      "description": "短暫時間有陽光，有一兩陣驟雨。",
       "maxTemperature": 30,
       "minTemperature": 26
     },
     {
       "date": "20261027",
       "weekday": "星期二",
-      "description": "短暫時間有陽光，有一兩陣驟雨。",
+      "description": "部分時間有陽光，有一兩陣驟雨。",
+      "maxTemperature": 30,
+      "minTemperature": 26
+    },
+    {
+      "date": "20261028",
+      "weekday": "星期三",
+      "description": "部分時間有陽光。",
       "maxTemperature": 29,
       "minTemperature": 25
     }
