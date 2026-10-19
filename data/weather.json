@@ -1,12 +1,10 @@
 {
-  "fetchedAt": "2026-10-19T04:45:22.559Z",
+  "fetchedAt": "2026-10-19T13:23:02.998Z",
   "current": {
-    "temperature": 31,
-    "humidity": 67,
-    "warnings": [
-      "火災危險警告為黃色，表示火災危險性頗高。"
-    ],
-    "hkoUpdateTime": "2026-10-19T12:02:00+08:00"
+    "temperature": 28,
+    "humidity": 81,
+    "warnings": [],
+    "hkoUpdateTime": "2026-10-19T21:02:00+08:00"
   },
   "forecast": [
     {
