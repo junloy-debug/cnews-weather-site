@@ -1,16 +1,16 @@
 {
-  "fetchedAt": "2026-10-20T04:55:03.237Z",
+  "fetchedAt": "2026-10-20T11:42:49.932Z",
   "current": {
-    "temperature": 30,
-    "humidity": 68,
+    "temperature": 29,
+    "humidity": 69,
     "warnings": [],
-    "hkoUpdateTime": "2026-10-20T12:02:00+08:00"
+    "hkoUpdateTime": "2026-10-20T19:02:00+08:00"
   },
   "forecast": [
     {
       "date": "20261021",
       "weekday": "星期三",
-      "description": "大致天晴，初時部分地區能見度較低。日間乾燥及酷熱。稍後局部地區有驟雨。",
+      "description": "大致天晴。早上能見度較低。日間乾燥及酷熱。稍後局部地區有驟雨。",
       "maxTemperature": 33,
       "minTemperature": 26
     },
