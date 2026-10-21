@@ -1,12 +1,10 @@
 {
-  "fetchedAt": "2026-10-21T04:53:32.421Z",
+  "fetchedAt": "2026-10-21T11:54:42.566Z",
   "current": {
-    "temperature": 31,
-    "humidity": 63,
-    "warnings": [
-      "酷熱天氣警告現正生效，市民應慎防中暑，多補充水分。"
-    ],
-    "hkoUpdateTime": "2026-10-21T12:02:00+08:00"
+    "temperature": 29,
+    "humidity": 79,
+    "warnings": [],
+    "hkoUpdateTime": "2026-10-21T19:02:00+08:00"
   },
   "forecast": [
     {
