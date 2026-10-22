@@ -1,16 +1,16 @@
 {
-  "fetchedAt": "2026-10-22T11:57:25.940Z",
+  "fetchedAt": "2026-10-22T17:13:40.647Z",
   "current": {
-    "temperature": 28,
-    "humidity": 60,
+    "temperature": 25,
+    "humidity": 64,
     "warnings": [],
-    "hkoUpdateTime": "2026-10-22T19:02:00+08:00"
+    "hkoUpdateTime": "2026-10-23T01:02:00+08:00"
   },
   "forecast": [
     {
       "date": "20261023",
       "weekday": "星期五",
-      "description": "天晴。日間炎熱及非常乾燥。",
+      "description": "天晴。日間炎熱及非常乾燥。海有湧浪。",
       "maxTemperature": 32,
       "minTemperature": 25
     },
