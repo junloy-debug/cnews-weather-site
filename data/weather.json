@@ -1,18 +1,16 @@
 {
-  "fetchedAt": "2026-10-25T11:36:13.531Z",
+  "fetchedAt": "2026-10-25T16:26:29.558Z",
   "current": {
-    "temperature": 28,
-    "humidity": 63,
-    "warnings": [
-      "火災危險警告為黃色，表示火災危險性頗高。"
-    ],
-    "hkoUpdateTime": "2026-10-25T19:02:00+08:00"
+    "temperature": 27,
+    "humidity": 59,
+    "warnings": [],
+    "hkoUpdateTime": "2026-10-26T00:02:00+08:00"
   },
   "forecast": [
     {
       "date": "20261026",
       "weekday": "星期一",
-      "description": "部分時間有陽光。初時有一兩陣微雨。",
+      "description": "大致多雲，初時有一兩陣雨。日間部分時間有陽光。",
       "maxTemperature": 30,
       "minTemperature": 26
     },
