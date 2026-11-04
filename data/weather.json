@@ -1,30 +1,23 @@
 {
-  "fetchedAt": "2026-11-03T23:25:48.333Z",
+  "fetchedAt": "2026-11-04T06:29:38.219Z",
   "current": {
-    "temperature": 26,
-    "humidity": 85,
+    "temperature": 28,
+    "humidity": 77,
     "warnings": [],
-    "hkoUpdateTime": "2026-11-04T07:02:00+08:00"
+    "hkoUpdateTime": "2026-11-04T14:02:00+08:00"
   },
   "forecast": [
     {
-      "date": "20261104",
-      "weekday": "星期三",
-      "description": "大致多雲。早晚有一兩陣雨。日間部分時間天色明朗。",
-      "maxTemperature": 28,
-      "minTemperature": 25
-    },
-    {
       "date": "20261105",
       "weekday": "星期四",
-      "description": "部分時間有陽光。",
+      "description": "部分時間有陽光，初時有一兩陣微雨。",
       "maxTemperature": 30,
       "minTemperature": 26
     },
     {
       "date": "20261106",
       "weekday": "星期五",
-      "description": "部分時間有陽光。稍後漸轉多雲及有一兩陣雨。",
+      "description": "部分時間有陽光。晚上漸轉多雲及有一兩陣雨。",
       "maxTemperature": 29,
       "minTemperature": 26
     },
@@ -45,30 +38,37 @@
     {
       "date": "20261109",
       "weekday": "星期一",
-      "description": "部分時間有陽光。日間乾燥。稍後氣溫逐漸下降。",
+      "description": "初時有一兩陣微雨，日間漸轉天晴乾燥。稍後氣溫顯著下降。",
       "maxTemperature": 28,
-      "minTemperature": 23
+      "minTemperature": 22
     },
     {
       "date": "20261110",
       "weekday": "星期二",
-      "description": "大致天晴。早上稍涼，日間乾燥。",
-      "maxTemperature": 27,
+      "description": "大致天晴及乾燥。早晚稍涼。",
+      "maxTemperature": 26,
       "minTemperature": 21
     },
     {
       "date": "20261111",
       "weekday": "星期三",
-      "description": "部分時間有陽光。早上稍涼，日間乾燥。",
-      "maxTemperature": 27,
-      "minTemperature": 21
+      "description": "大致天晴及乾燥。早上稍涼。",
+      "maxTemperature": 26,
+      "minTemperature": 20
     },
     {
       "date": "20261112",
       "weekday": "星期四",
       "description": "部分時間有陽光。日間乾燥。",
       "maxTemperature": 27,
-      "minTemperature": 23
+      "minTemperature": 22
+    },
+    {
+      "date": "20261113",
+      "weekday": "星期五",
+      "description": "大致多雲。日間部分時間有陽光。",
+      "maxTemperature": 28,
+      "minTemperature": 24
     }
   ]
 }
