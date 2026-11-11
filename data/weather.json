@@ -1,21 +1,14 @@
 {
-  "fetchedAt": "2026-11-10T19:46:35.368Z",
+  "fetchedAt": "2026-11-11T06:30:10.595Z",
   "current": {
-    "temperature": 18,
-    "humidity": 54,
+    "temperature": 25,
+    "humidity": 45,
     "warnings": [
       "火災危險警告為紅色，表示火災危險性極高。"
     ],
-    "hkoUpdateTime": "2026-11-11T03:02:00+08:00"
+    "hkoUpdateTime": "2026-11-11T14:02:00+08:00"
   },
   "forecast": [
-    {
-      "date": "20261111",
-      "weekday": "星期三",
-      "description": "天晴乾燥。早上稍涼。",
-      "maxTemperature": 25,
-      "minTemperature": 18
-    },
     {
       "date": "20261112",
       "weekday": "星期四",
@@ -33,7 +26,7 @@
     {
       "date": "20261114",
       "weekday": "星期六",
-      "description": "大致多雲，初時有幾陣驟雨。下午部分時間天色明朗。",
+      "description": "大致多雲，有幾陣驟雨，初時部分地區雨勢較大及有雷暴。日間驟雨減少，短暫時間有陽光。",
       "maxTemperature": 27,
       "minTemperature": 23
     },
@@ -47,30 +40,37 @@
     {
       "date": "20261116",
       "weekday": "星期一",
-      "description": "大致多雲，有一兩陣雨，早晚局部地區能見度較低。日間部分時間天色明朗。",
-      "maxTemperature": 28,
-      "minTemperature": 25
+      "description": "大致多雲，有一兩陣雨。日間部分時間天色明朗。晚上局部地區能見度較低。",
+      "maxTemperature": 27,
+      "minTemperature": 24
     },
     {
       "date": "20261117",
       "weekday": "星期二",
-      "description": "大致多雲，早晚有一兩陣雨，部分地區能見度較低。日間短暫時間有陽光。",
-      "maxTemperature": 28,
+      "description": "大致多雲，有一兩陣雨，早晚局部地區能見度較低。日間部分時間天色明朗。",
+      "maxTemperature": 27,
       "minTemperature": 24
     },
     {
       "date": "20261118",
       "weekday": "星期三",
-      "description": "大致多雲，日間短暫時間有陽光。",
+      "description": "大致多雲。初時有一兩陣驟雨。日間短暫時間有陽光。",
       "maxTemperature": 26,
-      "minTemperature": 22
+      "minTemperature": 21
     },
     {
       "date": "20261119",
       "weekday": "星期四",
       "description": "短暫時間有陽光，日間乾燥。",
-      "maxTemperature": 25,
-      "minTemperature": 21
+      "maxTemperature": 24,
+      "minTemperature": 19
+    },
+    {
+      "date": "20261120",
+      "weekday": "星期五",
+      "description": "大致多雲。日間短暫時間有陽光及乾燥。",
+      "maxTemperature": 24,
+      "minTemperature": 19
     }
   ]
 }
