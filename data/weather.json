@@ -1,31 +1,33 @@
 {
-  "fetchedAt": "2026-11-13T06:50:04.990Z",
+  "fetchedAt": "2026-11-13T19:45:18.971Z",
   "current": {
-    "temperature": 26,
-    "humidity": 70,
-    "warnings": [],
-    "hkoUpdateTime": "2026-11-13T14:02:00+08:00"
+    "temperature": 23,
+    "humidity": 95,
+    "warnings": [
+      "雷暴警告現正生效，有效時間至11月14日上午5時正。預料香港有幾陣狂風雷暴。"
+    ],
+    "hkoUpdateTime": "2026-11-14T03:02:00+08:00"
   },
   "forecast": [
     {
       "date": "20261114",
       "weekday": "星期六",
-      "description": "大致多雲，間中有驟雨。初時雨勢頗大及有幾陣狂風雷暴，日間驟雨減少，下午部分時間有陽光。",
+      "description": "大致多雲，間中有驟雨，初時雨勢有時頗大及有幾陣狂風雷暴。日間驟雨減少，部分時間有陽光。",
       "maxTemperature": 27,
-      "minTemperature": 23
+      "minTemperature": 22
     },
     {
       "date": "20261115",
       "weekday": "星期日",
       "description": "大致天晴。晚上漸轉多雲。",
       "maxTemperature": 28,
-      "minTemperature": 23
+      "minTemperature": 22
     },
     {
       "date": "20261116",
       "weekday": "星期一",
-      "description": "大致多雲，有幾陣雨。",
-      "maxTemperature": 26,
+      "description": "大致多雲，有一兩陣雨。",
+      "maxTemperature": 27,
       "minTemperature": 24
     },
     {
