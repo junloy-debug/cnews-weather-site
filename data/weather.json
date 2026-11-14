@@ -1,75 +1,73 @@
 {
-  "fetchedAt": "2026-11-13T19:45:18.971Z",
+  "fetchedAt": "2026-11-14T06:29:16.886Z",
   "current": {
-    "temperature": 23,
-    "humidity": 95,
-    "warnings": [
-      "雷暴警告現正生效，有效時間至11月14日上午5時正。預料香港有幾陣狂風雷暴。"
-    ],
-    "hkoUpdateTime": "2026-11-14T03:02:00+08:00"
+    "temperature": 25,
+    "humidity": 85,
+    "warnings": [],
+    "hkoUpdateTime": "2026-11-14T14:02:00+08:00"
   },
   "forecast": [
     {
-      "date": "20261114",
-      "weekday": "星期六",
-      "description": "大致多雲，間中有驟雨，初時雨勢有時頗大及有幾陣狂風雷暴。日間驟雨減少，部分時間有陽光。",
-      "maxTemperature": 27,
-      "minTemperature": 22
-    },
-    {
       "date": "20261115",
       "weekday": "星期日",
-      "description": "大致天晴。晚上漸轉多雲。",
+      "description": "大致天晴。",
       "maxTemperature": 28,
       "minTemperature": 22
     },
     {
       "date": "20261116",
       "weekday": "星期一",
-      "description": "大致多雲，有一兩陣雨。",
+      "description": "大致多雲，有一兩陣雨。日間部分時間天色明朗。",
       "maxTemperature": 27,
       "minTemperature": 24
     },
     {
       "date": "20261117",
       "weekday": "星期二",
-      "description": "大致多雲。早上有一兩陣雨，日間短暫時間有陽光，晚上局部地區能見度較低。",
+      "description": "大致多雲。早上有一兩陣雨，日間短暫時間有陽光。",
       "maxTemperature": 27,
       "minTemperature": 24
     },
     {
       "date": "20261118",
       "weekday": "星期三",
-      "description": "大致多雲，有幾陣雨。稍後氣溫顯著下降。",
+      "description": "大致多雲，有幾陣雨。初時局部地區能見度較低。稍後氣溫顯著下降。",
       "maxTemperature": 26,
       "minTemperature": 20
     },
     {
       "date": "20261119",
       "weekday": "星期四",
-      "description": "大致多雲。早上稍涼，日間部分時間天色明朗。",
+      "description": "大致多雲。早晚較涼，日間部分時間天色明朗。",
       "maxTemperature": 22,
       "minTemperature": 18
     },
     {
       "date": "20261120",
       "weekday": "星期五",
-      "description": "大致多雲。早上稍涼，日間部分時間天色明朗。",
-      "maxTemperature": 22,
-      "minTemperature": 18
+      "description": "大致多雲，有一兩陣雨。早上清涼。",
+      "maxTemperature": 20,
+      "minTemperature": 17
     },
     {
       "date": "20261121",
       "weekday": "星期六",
+      "description": "大致多雲，日間部分時間天色明朗。早上較涼。",
+      "maxTemperature": 22,
+      "minTemperature": 18
+    },
+    {
+      "date": "20261122",
+      "weekday": "星期日",
       "description": "短暫時間有陽光。",
       "maxTemperature": 23,
       "minTemperature": 19
     },
     {
-      "date": "20261122",
-      "weekday": "星期日",
-      "description": "部分時間有陽光。",
-      "maxTemperature": 25,
+      "date": "20261123",
+      "weekday": "星期一",
+      "description": "大致多雲，日間短暫時間有陽光。",
+      "maxTemperature": 24,
       "minTemperature": 20
     }
   ]
