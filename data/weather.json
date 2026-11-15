@@ -1,18 +1,16 @@
 {
-  "fetchedAt": "2026-11-15T06:38:56.679Z",
+  "fetchedAt": "2026-11-15T18:53:23.555Z",
   "current": {
-    "temperature": 25,
-    "humidity": 69,
-    "warnings": [
-      "火災危險警告為黃色，表示火災危險性頗高。"
-    ],
-    "hkoUpdateTime": "2026-11-15T14:02:00+08:00"
+    "temperature": 23,
+    "humidity": 83,
+    "warnings": [],
+    "hkoUpdateTime": "2026-11-16T02:02:00+08:00"
   },
   "forecast": [
     {
       "date": "20261116",
       "weekday": "星期一",
-      "description": "大致多雲，有一兩陣雨。日間部分時間天色明朗。",
+      "description": "漸轉多雲。早晚有一兩陣微雨，日間短暫時間有陽光。",
       "maxTemperature": 26,
       "minTemperature": 23
     },
