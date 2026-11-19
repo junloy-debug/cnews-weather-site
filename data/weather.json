@@ -1,18 +1,18 @@
 {
-  "fetchedAt": "2026-11-19T07:30:01.512Z",
+  "fetchedAt": "2026-11-19T20:41:16.510Z",
   "current": {
-    "temperature": 20,
-    "humidity": 73,
+    "temperature": 19,
+    "humidity": 53,
     "warnings": [],
-    "hkoUpdateTime": "2026-11-19T15:02:00+08:00"
+    "hkoUpdateTime": "2026-11-20T04:02:00+08:00"
   },
   "forecast": [
     {
       "date": "20261120",
       "weekday": "星期五",
-      "description": "氣溫進一步下降。多雲，天氣相當清涼，有幾陣雨。",
-      "maxTemperature": 18,
-      "minTemperature": 15
+      "description": "氣溫進一步下降。密雲，天氣相當清涼，有幾陣雨。",
+      "maxTemperature": 20,
+      "minTemperature": 14
     },
     {
       "date": "20261121",
@@ -52,16 +52,16 @@
     {
       "date": "20261126",
       "weekday": "星期四",
-      "description": "大致多雲，有一兩陣雨。日間部分時間天色明朗。",
+      "description": "大致多雲，有一兩陣雨。早上清涼，日間部分時間天色明朗。",
       "maxTemperature": 22,
-      "minTemperature": 18
+      "minTemperature": 17
     },
     {
       "date": "20261127",
       "weekday": "星期五",
       "description": "短暫時間有陽光。",
       "maxTemperature": 24,
-      "minTemperature": 20
+      "minTemperature": 19
     },
     {
       "date": "20261128",
