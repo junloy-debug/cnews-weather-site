@@ -1,19 +1,18 @@
 {
-  "fetchedAt": "2026-11-20T07:21:26.306Z",
+  "fetchedAt": "2026-11-20T20:25:32.665Z",
   "current": {
-    "temperature": 13,
-    "humidity": 91,
+    "temperature": 15,
+    "humidity": 62,
     "warnings": [
-      "強烈季候風信號現正生效。",
       "寒冷天氣警告現正生效，天氣寒冷可能影響健康，市民應小心保暖。"
     ],
-    "hkoUpdateTime": "2026-11-20T15:02:00+08:00"
+    "hkoUpdateTime": "2026-11-21T04:02:00+08:00"
   },
   "forecast": [
     {
       "date": "20261121",
       "weekday": "星期六",
-      "description": "初時大致多雲，早上相當清涼，日間部分時間有陽光。",
+      "description": "大致多雲。日間部分時間有陽光及乾燥。",
       "maxTemperature": 21,
       "minTemperature": 13
     },
