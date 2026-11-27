@@ -1,16 +1,16 @@
 {
-  "fetchedAt": "2026-11-27T08:40:05.733Z",
+  "fetchedAt": "2026-11-27T21:20:49.628Z",
   "current": {
-    "temperature": 25,
-    "humidity": 64,
+    "temperature": 22,
+    "humidity": 49,
     "warnings": [],
-    "hkoUpdateTime": "2026-11-27T16:02:00+08:00"
+    "hkoUpdateTime": "2026-11-28T05:02:00+08:00"
   },
   "forecast": [
     {
       "date": "20261128",
       "weekday": "星期六",
-      "description": "天晴。日間非常乾燥。",
+      "description": "大致天晴。日間非常乾燥。",
       "maxTemperature": 26,
       "minTemperature": 19
     },
